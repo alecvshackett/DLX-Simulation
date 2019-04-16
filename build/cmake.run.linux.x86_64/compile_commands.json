@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alec/eclipse-workspace/DLX-Simulation/build/cmake.run.linux.x86_64",
+  "command": "/usr/bin/c++     -O3 -DNDEBUG   -o CMakeFiles/DLX-Simulation.dir/DLX-Simulation.cpp.o -c /home/alec/eclipse-workspace/DLX-Simulation/DLX-Simulation.cpp",
+  "file": "/home/alec/eclipse-workspace/DLX-Simulation/DLX-Simulation.cpp"
+}
+]

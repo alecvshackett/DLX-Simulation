@@ -1,0 +1,11 @@
+# ninja log v5
+0	191	0	CMakeFiles/DLX-Simulation.dir/DLX-Simulation.cpp.o	dc33e852f6deeffc
+192	232	0	DLX-Simulation	505075c8b5d5b817
+0	50	0	DLX-Simulation	505075c8b5d5b817
+0	28	0	build.ninja	3d0f08c102935c98
+0	17	0	build.ninja	3d0f08c102935c98
+0	28	0	build.ninja	3d0f08c102935c98
+2	217	0	CMakeFiles/DLX-Simulation.dir/Label.cpp.o	2e5784dc02a89f57
+2	217	0	CMakeFiles/DLX-Simulation.dir/Enums.cpp.o	d2d9a7b39001d639
+1	661	0	CMakeFiles/DLX-Simulation.dir/Controller.cpp.o	cc874ace9bbf4c81
+1	642	0	CMakeFiles/DLX-Simulation.dir/Controller.cpp.o	cc874ace9bbf4c81

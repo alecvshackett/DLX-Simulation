@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/alec/eclipse-workspace/DLX-Simulation/build/default",
+  "command": "/usr/bin/c++     -O3 -DNDEBUG   -o CMakeFiles/DLX-Simulation.dir/DLX-Simulation.cpp.o -c /home/alec/eclipse-workspace/DLX-Simulation/DLX-Simulation.cpp",
+  "file": "/home/alec/eclipse-workspace/DLX-Simulation/DLX-Simulation.cpp"
+},
+
+{
+  "directory": "/home/alec/eclipse-workspace/DLX-Simulation/build/default",
+  "command": "/usr/bin/c++     -O3 -DNDEBUG   -o CMakeFiles/DLX-Simulation.dir/Controller.cpp.o -c /home/alec/eclipse-workspace/DLX-Simulation/Controller.cpp",
+  "file": "/home/alec/eclipse-workspace/DLX-Simulation/Controller.cpp"
+},
+
+{
+  "directory": "/home/alec/eclipse-workspace/DLX-Simulation/build/default",
+  "command": "/usr/bin/c++     -O3 -DNDEBUG   -o CMakeFiles/DLX-Simulation.dir/Instruction.cpp.o -c /home/alec/eclipse-workspace/DLX-Simulation/Instruction.cpp",
+  "file": "/home/alec/eclipse-workspace/DLX-Simulation/Instruction.cpp"
+},
+
+{
+  "directory": "/home/alec/eclipse-workspace/DLX-Simulation/build/default",
+  "command": "/usr/bin/c++     -O3 -DNDEBUG   -o CMakeFiles/DLX-Simulation.dir/Label.cpp.o -c /home/alec/eclipse-workspace/DLX-Simulation/Label.cpp",
+  "file": "/home/alec/eclipse-workspace/DLX-Simulation/Label.cpp"
+},
+
+{
+  "directory": "/home/alec/eclipse-workspace/DLX-Simulation/build/default",
+  "command": "/usr/bin/c++     -O3 -DNDEBUG   -o CMakeFiles/DLX-Simulation.dir/Enums.cpp.o -c /home/alec/eclipse-workspace/DLX-Simulation/Enums.cpp",
+  "file": "/home/alec/eclipse-workspace/DLX-Simulation/Enums.cpp"
+}
+]
